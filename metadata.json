@@ -1,0 +1,5 @@
+{
+  "name": "OCR Document Extraction Engine",
+  "description": "An AI-powered workbench to extract, validate, and export data from business documents like invoices, BOLs, and receipts, eliminating manual data entry.",
+  "requestFramePermissions": []
+}
